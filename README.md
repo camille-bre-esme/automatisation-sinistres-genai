@@ -79,6 +79,5 @@ Les sinistres utilisés proviennent du dépôt pédagogique [lemans-courses-shar
 
 ## 💡 Pistes d'amélioration
 
-- Évaluer automatiquement les extractions sur l'ensemble du jeu de données
-- Tester un LLM open source exécuté en local pour ne plus dépendre d'une API
+- Tester un LLM open source exécuté en local pour ne plus dépendre d'une API (RGPD, AI Act)
 - Conteneuriser l'application avec Docker pour faciliter son déploiement
