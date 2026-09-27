@@ -4,7 +4,11 @@ Outil qui automatise le traitement d'une déclaration de sinistre aéronautique 
 
 > Projet réalisé dans le cadre de ma formation d'ingénieure IA & Data à l'ESME Sudria.
 
-![Aperçu de l'interface](assets/demo.png)
+
+https://github.com/user-attachments/assets/e115903a-becc-4f21-a206-6ba88626df13
+
+
+
 
 ## 🎯 Fonctionnalités
 
