@@ -1,0 +1,7 @@
+gradio
+pymupdf
+pillow
+google-genai
+python-dotenv
+torch
+open_clip_torch
